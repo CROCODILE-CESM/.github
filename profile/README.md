@@ -1,12 +1,21 @@
-## Hi there 👋
+# CROCODILE: Python interfaces for regional ocean modeling and data assimilation
 
-<!--
+### CROCODILE is an NSF-funded cyberinfrastructure collaboration between the NSF National Center for Atmospheric Research ([NSF NCAR](https://ncar.ucar.edu/)) and the Woods Hole Oceanographic Institution ([WHOI](https://www.whoi.edu/)).
 
-**Here are some ideas to get you started:**
+### Our goal is to build a community of practice around regional ocean modeling for studying ocean physics, the carbon cycle, climate change and intervention, and more, by creating and curating a common set of open-source tools.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+More specifically: We want YOU to be up and running a regional ocean model in CESM, with all the necessary forcing files, boundary conditions, etc., for fairly arbitrary domains and model resolutions, including data assimilation capabilities, in a matter of hours rather than weeks!
+
+## CROCODILE combines
+- The **[MOM6](https://mom6.readthedocs.io/)** ocean model
+- **[DART](https://docs.dart.ucar.edu/en/latest/)** ensemble data assimilation
+- **[MARBL](https://marbl.readthedocs.io/)** ocean biogeochemistry
+- Coupling infrastructure from the **[Community Earth System Model (CESM)](https://www.cesm.ucar.edu/)**
+- Python infrastructure from **[regional-mom6](https://github.com/COSIMA/regional-mom6)**
+
+## Interested in contributing? Questions?
+Join us on [Slack!](https://crocodile-org.slack.com/)
+
+## Stay tuned for
+- An initial code release in early 2025
+- Announcements for workshops at NCAR, also in 2025
