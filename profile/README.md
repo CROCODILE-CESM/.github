@@ -8,7 +8,7 @@ More specifically: We want YOU to be up and running a regional ocean model in CE
 
 ## CROCODILE combines
 - The **[MOM6](https://mom6.readthedocs.io/)** ocean model
-- **[DART](https://docs.dart.ucar.edu/en/latest/)** ensemble data assimilation
+- **[DART](https://dart.ucar.edu/)** ensemble data assimilation
 - **[MARBL](https://marbl.readthedocs.io/)** ocean biogeochemistry
 - Coupling infrastructure from the **[Community Earth System Model (CESM)](https://www.cesm.ucar.edu/)**
 - Python infrastructure from **[regional-mom6](https://github.com/COSIMA/regional-mom6)**
