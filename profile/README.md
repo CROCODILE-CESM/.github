@@ -19,4 +19,4 @@ We want **YOU** to be up and running a regional ocean model, with all the necess
 
 ## Stay tuned for
 - An initial code release in 2025
-- Announcements for workshops at NCAR, also in 2025
+- Announcements for workshops at NSF NCAR, also in 2025
