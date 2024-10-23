@@ -14,7 +14,8 @@ More specifically: We want YOU to be up and running a regional ocean model in CE
 - Python infrastructure from **[regional-mom6](https://github.com/COSIMA/regional-mom6)**
 
 ## Interested in contributing? Questions?
-Join us on [Slack!](https://crocodile-org.slack.com/)
+- Join us on [Slack!](https://crocodile-org.slack.com/)
+- Checkout our open source code being developed at [CROCODILE-CESM](https://github.com/orgs/CROCODILE-CESM/repositories)
 
 ## Stay tuned for
 - An initial code release in early 2025
