@@ -2,7 +2,7 @@
 
 ### CROCODILE is an [NSF-funded cyberinfrastructure](https://new.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation) collaboration between the NSF National Center for Atmospheric Research ([NSF NCAR](https://ncar.ucar.edu/)) and the Woods Hole Oceanographic Institution ([WHOI](https://www.whoi.edu/)).
 
-### Our goal is to build a community of practice around regional ocean modeling for studying ocean physics, the carbon cycle, climate change and intervention, and more, by creating and curating a common set of open-source tools.
+### Our goal is to build a community of practice around regional ocean modeling for studying ocean physics, the carbon cycle, and more, by creating and curating a common set of open-source tools.
 
 We want **YOU** to be up and running a regional ocean model, with all the necessary forcing files, boundary conditions, etc., for fairly arbitrary domains and model resolutions, including data assimilation capabilities, in a matter of hours rather than weeks!
 
