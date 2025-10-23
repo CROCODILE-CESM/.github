@@ -19,5 +19,5 @@ We want **YOU** to be up and running a regional ocean model, with all the necess
 - Join us for our weekly Office Hours! Thursday @ 3PM **Eastern**. [Zoom Link](https://whoi-edu.zoom.us/j/92370593183?pwd=dO8ubzsuNlBJI5MaeF4cWOLufBC0Cf.1&from=addon)
 
 ## Stay tuned for
-- An initial code release in 2025
-- Announcements for workshops at NSF NCAR, also in 2025
+- An initial code release in 2025/2026 (See our first CrocoDash workshop release [here](https://github.com/CROCODILE-CESM/CrocoDash/releases/tag/v0.1.0-beta)!
+- Announcements for [workshops](https://www.cesm.ucar.edu/events/regional-ocean-modeling-mom6-community-earth-system-model-framework) at NSF NCAR, in 2026 and beyond!
