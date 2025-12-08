@@ -16,7 +16,6 @@ We want **YOU** to be up and running a regional ocean model, with all the necess
 ## Interested in contributing? Questions?
 - Join us on [Slack!](https://crocodile-org.slack.com/)
 - Check out our open source code being developed at [CROCODILE-CESM](https://github.com/orgs/CROCODILE-CESM/repositories) (Open issues or create discussion posts!)
-- Join us for our weekly Office Hours! Thursday @ 3PM **Eastern**. [Zoom Link](https://whoi-edu.zoom.us/j/92370593183?pwd=dO8ubzsuNlBJI5MaeF4cWOLufBC0Cf.1&from=addon)
 
 ## Stay tuned for
 - An initial code release in 2025/2026 (See our first CrocoDash workshop release [here](https://github.com/CROCODILE-CESM/CrocoDash/releases/tag/v0.1.0-beta)!
